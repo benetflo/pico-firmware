@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/home/dev/ws/pico-firmware/build/blink/CMakeFiles/picotoolBuild
+/home/dev/ws/pico-firmware/build/blink/CMakeFiles/picotoolBuild.rule
+/home/dev/ws/pico-firmware/build/blink/CMakeFiles/picotoolBuild-complete.rule
+/home/dev/ws/pico-firmware/build/blink/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/home/dev/ws/pico-firmware/build/blink/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/home/dev/ws/pico-firmware/build/blink/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/home/dev/ws/pico-firmware/build/blink/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/home/dev/ws/pico-firmware/build/blink/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/home/dev/ws/pico-firmware/build/blink/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/home/dev/ws/pico-firmware/build/blink/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/home/dev/ws/pico-firmware/build/blink/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule

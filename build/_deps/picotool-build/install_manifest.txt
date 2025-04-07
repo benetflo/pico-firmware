@@ -1,0 +1,5 @@
+/home/dev/ws/pico-firmware/build/_deps/picotool/picotool
+/home/dev/ws/pico-firmware/build/_deps/picotool/picotoolTargets.cmake
+/home/dev/ws/pico-firmware/build/_deps/picotool/picotoolTargets-release.cmake
+/home/dev/ws/pico-firmware/build/_deps/picotool/picotoolConfig.cmake
+/home/dev/ws/pico-firmware/build/_deps/picotool/picotoolConfigVersion.cmake
